@@ -1,0 +1,21 @@
+﻿[
+    {
+
+        "Email": "mail@gmail.com",
+        "Name": "LEMAIRE",
+        "Phone": "0757676756",
+        "Address": "3 rue Paris, 75003",
+        "Message": "Veuillez saisir mes informations sur le formulaire d'inscription en tant que homme"
+    },
+    {
+
+        "Email": "mail@gmail.com",
+        "Name": "Sylvie",
+        "Phone": "0757676756",
+        "Address": "15 rue Paris, 75005",
+        "Message": "Veuillez saisir mes informations sur le formulaire d'inscription en tant que femme"
+
+    }
+]
+
+  
